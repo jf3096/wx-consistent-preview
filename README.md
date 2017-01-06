@@ -53,16 +53,16 @@ alert('通过 http://127.0.0.1:8888/ 可以促发预览上传哦:)');
 ## 流程图
 
 1. 打开C:\Program Files (x86)\Tencent\微信web开发者工具\package.nw\app\dist\components\detail\detail.js, 不管是否压缩, 请自行添加到detail组件getInitialState方法中
-![detail.js](~git-imgs/1.png)
+![detail.js](git-imgs/1.png)
 
 
 2. 打开在你的电脑或服务器打开微信开发者工具, 如果写入成功, 你会得到这个提示:
-![detail.js](~git-imgs/2.png)
+![detail.js](git-imgs/2.png)
 
 
 3. 如果需要端口映射让外网访问可以使用类似花生壳的工具:
-![detail.js](~git-imgs/3.png)
+![detail.js](git-imgs/3.png)
 
 
 4. 使用浏览器打开:
-![detail.js](~git-imgs/4.png)
+![detail.js](git-imgs/4.png)

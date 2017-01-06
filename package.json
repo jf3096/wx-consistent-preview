@@ -1,0 +1,29 @@
+{
+  "name": "wx-consistent-preview",
+  "version": "1.0.0",
+  "description": "微信小程序远程预览",
+  "main": "index.js",
+  "scripts": {
+    "compress-images": "tinypng-loader-cli -s ./git-imgs/*.png -d ./git-imgs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jf3096/wx-consistent-preview.git"
+  },
+  "keywords": [
+    "微信",
+    "微信小程序",
+    "微信小程序远程预览",
+    "远程预览",
+    "wechat remote preview",
+    "mina remote preview",
+    "wechat",
+    "mina"
+  ],
+  "author": "Ailun She",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jf3096/wx-consistent-preview/issues"
+  },
+  "homepage": "https://github.com/jf3096/wx-consistent-preview#readme"
+}
